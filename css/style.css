@@ -429,6 +429,7 @@ a:visited {
     color: #fff;
     background-color: #F7B267;
     transition: 0.3s;
+    cursor: pointer;
 }
 
 .recipie:hover {
